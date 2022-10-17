@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "server_mod.h": "c"
+    }
+}
